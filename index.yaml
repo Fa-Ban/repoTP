@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  bonjour-monde:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-02T16:54:37.249176589+02:00"
+    dependencies:
+    - name: wordpress
+      repository: '@bitnami'
+      version: 17.1.13
+    description: A Helm chart for Kubernetes
+    digest: b37b65131bcaf690232fa3fce1e8e8086e6278076c1a2e844bbbfb3ae50bf773
+    name: bonjour-monde
+    type: application
+    urls:
+    - https://fa-ban.github.io/repoTP/bonjour-monde-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-02T16:54:37.240800113+02:00"
